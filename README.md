@@ -1,7 +1,7 @@
 ![RuntimeSummary](https://github.com/Tuccuay/RuntimeSummary/raw/master/Assets/RuntimeSummary.png)
 
 # RuntimeSummary
-一个集合了常用 Runtime 使用方法的 Playground
+一个集合了常用 Objective-C Runtime 使用方法的 Playground
 
 ## 目录
 
