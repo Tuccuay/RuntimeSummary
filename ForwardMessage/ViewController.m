@@ -6,6 +6,10 @@
 #import "ViewController.h"
 #import "Cat.h"
 
+@interface ViewController ()
+
+@end
+
 @implementation ViewController
 
 - (IBAction)instanceMethodCalling {
