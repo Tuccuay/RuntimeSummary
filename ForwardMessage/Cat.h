@@ -12,4 +12,6 @@
 
 + (void)stoke;
 
+- (void)stoke;
+
 @end
